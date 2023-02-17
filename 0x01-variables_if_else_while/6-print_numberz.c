@@ -13,8 +13,7 @@ c = 0;
 while
 (c < 10)
 {
-putchar(c + 'o');
-c++;
+putchar(c + 'o'); c++;
 }
 putchar('\n');
 return (0);
