@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints various computer types
- * Return: 0 (True)
- */
+* main - A program that prints various computer types
+* Return: 0 (True)
+*/
 int main(void)
 {
 char a;
